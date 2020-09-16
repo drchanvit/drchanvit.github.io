@@ -1,2 +1,2 @@
 (this.webpackJsonpr8cs=this.webpackJsonpr8cs||[]).push([[14],{617:function(s,t,n){"use strict";n.r(t);var e=n(0),c=n.n(e),r=n(10);t.default=function(){var s=Object(r.g)().slug;return c.a.createElement("div",null,"Now showing post ",s)}}}]);
-//# sourceMappingURL=14.dc0330b6.chunk.js.map
+//# sourceMappingURL=14.2a9f2227.chunk.js.map
